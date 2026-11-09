@@ -1,0 +1,295 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-11-09T19:41:48.974632+09:00",
+  "publication_status": "ready_for_publication",
+  "publication_executed": false,
+  "checks": {
+    "nine_audio_sha256_and_manifest_match": true,
+    "readme_links_valid": true,
+    "license_review_links_valid": true,
+    "readme_and_license_review_same_terms": true,
+    "manifest_same_terms": true,
+    "official_cc0_links_present": true,
+    "third_party_notices_unchanged": true,
+    "all_prior_experiment_files_unchanged": true,
+    "repository_files_unchanged": true,
+    "head_and_worktree_diff_unchanged": true,
+    "git_index_unchanged": true,
+    "x_post_short_with_demo_url_reserved": true,
+    "public_docs_no_stale_pending_terms": true,
+    "public_file_allowlist_complete": true,
+    "playlist_by_vowel.m3u8_valid": true,
+    "playlist_by_scale.m3u8_valid": true
+  },
+  "audio": [
+    {
+      "file": "audio/01_ah_scale_1.00.wav",
+      "sha256": "75eed09a958252e3a212fe22aca6de207d13a59d183d0099b5dfb0fe469d4f23",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/02_ah_scale_1.05.wav",
+      "sha256": "c281fc79f254c88cec78355f97852d296c9c0992a20031010d65bcd45df23947",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/03_ah_scale_1.10.wav",
+      "sha256": "b741e5046e63797d898e934b0003e1a15b1a98c4c1020740e00b7f6a21e9533d",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/04_i_scale_1.00.wav",
+      "sha256": "00272a55c6b9d3be25771a718a7f2ef9f22f40a746ba66a8f6f2241a232f06a8",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/05_i_scale_1.05.wav",
+      "sha256": "9963033816642d082749cf295a4b4f3804de2f4386f9fe6aa64878c358d8e89a",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/06_i_scale_1.10.wav",
+      "sha256": "258cf2cfdaab70c594c6acdd1af363d7b2306f11bcbc5019a13a79ca4589aec0",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/07_u_scale_1.00.wav",
+      "sha256": "b16656288d26dc2c318207fa8db638ae56b52afbe21b0472a4fee0e77d906842",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/08_u_scale_1.05.wav",
+      "sha256": "472987d4f8124851dec70fb884fb6e8f4586c93a3d385226e1ed00e4ba0082d2",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    },
+    {
+      "file": "audio/09_u_scale_1.10.wav",
+      "sha256": "13f496da11575f0eb69eb835e8201f7e31ab06d3d458f4c923d7f95e5029cd5e",
+      "manifest_match": true,
+      "phase2c_byte_match": true,
+      "unchanged": true,
+      "format_ok": true
+    }
+  ],
+  "links": [
+    {
+      "document": "README.md",
+      "target": "audio/01_ah_scale_1.00.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/02_ah_scale_1.05.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/03_ah_scale_1.10.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/04_i_scale_1.00.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/05_i_scale_1.05.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/06_i_scale_1.10.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/07_u_scale_1.00.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/08_u_scale_1.05.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "audio/09_u_scale_1.10.wav",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "playlist_by_vowel.m3u8",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "playlist_by_scale.m3u8",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "https://github.com/jamesondh/chimera-vocal-synth",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "README.md",
+      "target": "licenses/CHIMERA-MIT.txt",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "licenses/CMUDICT-LICENSE.txt",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "manifest.json",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "README.md",
+      "target": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "README.md",
+      "target": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "README.md",
+      "target": "LICENSE_REVIEW.md",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://github.com/jamesondh/chimera-vocal-synth",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/LICENSE",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/README.md",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "licenses/CHIMERA-MIT.txt",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/public/data/CMUDICT-LICENSE.txt",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "licenses/CMUDICT-LICENSE.txt",
+      "ok": true,
+      "method": "local file exists"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "ok": true,
+      "method": "external content retrieved"
+    },
+    {
+      "document": "LICENSE_REVIEW.md",
+      "target": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+      "ok": true,
+      "method": "external content retrieved"
+    }
+  ],
+  "external_link_checks": {
+    "method": "fetch_content read-only retrieval succeeded during finalization",
+    "responses": {
+      "https://github.com/jamesondh/chimera-vocal-synth": "mw94l8usmnbupp",
+      "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/LICENSE": "mw94l8usmnbupp",
+      "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/README.md": "mw94l8usmnbupp",
+      "https://github.com/jamesondh/chimera-vocal-synth/blob/092b16ce12b927d473c884ca2dfae53ce1b995df/public/data/CMUDICT-LICENSE.txt": "mw94l8usmnbupp",
+      "https://creativecommons.org/publicdomain/zero/1.0/": "mw94f742cj1aez",
+      "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en": "mw94f742cj1aez"
+    }
+  },
+  "protected_experiment_file_count": 736,
+  "protected_repository_file_count": 259,
+  "git_mutation_actions_executed": [],
+  "x_post": {
+    "conservative_weighted_length": 245,
+    "with_one_demo_url_and_newline": 269,
+    "method": "ASCII1/nonASCII2/URL23; conservative estimate, not official X tokenizer"
+  },
+  "public_file_allowlist": [
+    "README.md",
+    "LICENSE_REVIEW.md",
+    "POST.md",
+    "manifest.json",
+    "bundle_validation.json",
+    "playlist_by_vowel.m3u8",
+    "playlist_by_scale.m3u8",
+    "licenses/CHIMERA-MIT.txt",
+    "licenses/CMUDICT-LICENSE.txt",
+    "audio/01_ah_scale_1.00.wav",
+    "audio/02_ah_scale_1.05.wav",
+    "audio/03_ah_scale_1.10.wav",
+    "audio/04_i_scale_1.00.wav",
+    "audio/05_i_scale_1.05.wav",
+    "audio/06_i_scale_1.10.wav",
+    "audio/07_u_scale_1.00.wav",
+    "audio/08_u_scale_1.05.wav",
+    "audio/09_u_scale_1.10.wav"
+  ]
+}

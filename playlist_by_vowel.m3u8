@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:3.700,/ɑ/ - scale 1.00
+audio/01_ah_scale_1.00.wav
+#EXTINF:3.700,/ɑ/ - scale 1.05
+audio/02_ah_scale_1.05.wav
+#EXTINF:3.700,/ɑ/ - scale 1.10
+audio/03_ah_scale_1.10.wav
+#EXTINF:3.700,/i/ - scale 1.00
+audio/04_i_scale_1.00.wav
+#EXTINF:3.700,/i/ - scale 1.05
+audio/05_i_scale_1.05.wav
+#EXTINF:3.700,/i/ - scale 1.10
+audio/06_i_scale_1.10.wav
+#EXTINF:3.700,/u/ - scale 1.00
+audio/07_u_scale_1.00.wav
+#EXTINF:3.700,/u/ - scale 1.05
+audio/08_u_scale_1.05.wav
+#EXTINF:3.700,/u/ - scale 1.10
+audio/09_u_scale_1.10.wav
